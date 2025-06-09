@@ -7,3 +7,5 @@ permite almacenar, ordenar y recorrer datos de forma eficiente, facilitando oper
 búsqueda, clasificación y representación estructural. El objetivo principal fue diseñar un 
 programa interactivo capaz de generar un árbol, recorrerlo en distintos órdenes y clasificar sus 
 nodos, favoreciendo una comprensión práctica del modelo teórico subyacente. 
+
+video: https://www.youtube.com/watch?v=YPaNK7dW0Vw
